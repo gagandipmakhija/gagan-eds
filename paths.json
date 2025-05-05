@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    "/content/gagan-eds/:/",
+    "/content/gagan-eds/configuration:/.helix/config.json",
+    "/content/gagan-eds/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/gagan-eds/"
+  ]
+}
